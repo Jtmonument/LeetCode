@@ -15,7 +15,7 @@
         1 <= arr.length <= 10000
         0 <= arr[i] <= 9
 * */
-public class DuplicateZeros1089 {
+public class DuplicateZeros {
     //Accepted Solutions Runtime Distribution: 0 ms beats 100% of java submissions
     //Accepted Solutions Runtime Distribution: 39.5 MB beats 0% of java submissions
     public void duplicateZeros(int[] arr) {

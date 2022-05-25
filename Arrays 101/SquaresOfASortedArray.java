@@ -17,7 +17,7 @@ A is sorted in non-decreasing order.
 * */
 import java.util.Arrays;
 
-public class SquaresOfASortedArray977 {
+public class SquaresOfASortedArray {
     public int[] sortedSquares(int[] A) {
         for(int i = 0; i < A.length; i++) {
             int e = A[i];

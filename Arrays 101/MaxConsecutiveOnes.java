@@ -11,7 +11,7 @@ The input array will only contain 0 and 1.
 The length of input array is a positive integer and will not exceed 10,000
 */
 
-public class MaxConsecutiveOnes485 {
+public class MaxConsecutiveOnes {
     public int findMaxConsecutiveOnes(int[] nums) {
         int max = 0;
         int count = 0;

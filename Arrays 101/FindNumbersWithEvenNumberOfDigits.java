@@ -23,7 +23,7 @@ Constraints:
 1 <= nums.length <= 500
 1 <= nums[i] <= 10^5
 * */
-public class FindNumbersWithEvenNumberOfDigits1295 {
+public class FindNumbersWithEvenNumberOfDigits {
     public int findNumbers(int[] nums) {
         int count = 0;
         for(int i : nums) {
