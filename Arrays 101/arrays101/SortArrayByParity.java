@@ -1,3 +1,5 @@
+package arrays101;
+
 class SortArrayByParity {
     public int[] sortArrayByParity(int[] A) {
         int odd_index = 0;
