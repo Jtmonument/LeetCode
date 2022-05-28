@@ -6,8 +6,9 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Arrays 101" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Arrays and Strings" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/misc" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Binary Tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Miscellaneous" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Top Interview Questions" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
