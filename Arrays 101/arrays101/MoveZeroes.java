@@ -1,3 +1,5 @@
+package arrays101;
+
 class MoveZeroes {
     public void moveZeroes(int[] nums) {
         int writePointer = 0;
