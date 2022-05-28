@@ -1,3 +1,5 @@
+package arrays101;
+
 import java.util.Arrays;
 class HeightChecker {
     public int heightChecker(int[] heights) {
