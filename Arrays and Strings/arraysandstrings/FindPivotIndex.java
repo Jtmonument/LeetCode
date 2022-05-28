@@ -1,3 +1,5 @@
+package arraysandstrings;
+
 public class FindPivotIndex {
     public int pivotIndex(int[] nums) {
         if (nums.length < 3) {return -1;}
