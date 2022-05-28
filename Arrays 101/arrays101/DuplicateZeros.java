@@ -1,3 +1,5 @@
+package arrays101;
+
 /*  Given a fixed length array arr of integers, duplicate each occurrence of zero,
     shifting the remaining elements to the right.
     Note that elements beyond the length of the original array are not written.
