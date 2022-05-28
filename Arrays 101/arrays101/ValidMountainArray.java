@@ -1,3 +1,5 @@
+package arrays101;
+
 class ValidMountainArray {
     public boolean validMountainArray(int[] A) {
         if(A.length < 3) {return false;}
