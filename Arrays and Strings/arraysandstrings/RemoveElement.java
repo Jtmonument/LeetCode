@@ -1,3 +1,5 @@
+package arraysandstrings;
+
 class RemoveElement {
     public int removeElement(int[] nums, int val) {
         int length = nums.length;
