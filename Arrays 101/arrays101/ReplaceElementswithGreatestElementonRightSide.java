@@ -1,3 +1,5 @@
+package arrays101;
+
 class ReplaceElementswithGreatestElementonRightSide {
     public int[] replaceElements(int[] arr) {
         if(arr.length == 1) {return new int[]{-1};}
