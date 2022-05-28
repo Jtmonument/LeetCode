@@ -1,3 +1,5 @@
+package arrays101;
+
 class CheckIfNandItsDoubleExist {
     public boolean checkIfExist(int[] arr) {
         int check = arr[0] * 2;
