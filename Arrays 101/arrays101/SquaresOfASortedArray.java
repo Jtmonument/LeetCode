@@ -1,4 +1,4 @@
-/* Given an array of integers A sorted in non-decreasing order, return an array of the squares of each number,
+package arrays101;/* Given an array of integers A sorted in non-decreasing order, return an array of the squares of each number,
     also in sorted non-decreasing order.
 Example 1:
 
