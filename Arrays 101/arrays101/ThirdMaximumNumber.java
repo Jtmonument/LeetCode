@@ -1,3 +1,5 @@
+package arrays101;
+
 import java.util.Arrays;
 /*
 * Runtime beats 100% of Java submissions
