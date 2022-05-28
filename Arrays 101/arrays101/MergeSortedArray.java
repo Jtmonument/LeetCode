@@ -1,3 +1,5 @@
+package arrays101;
+
 import java.util.Arrays;
 class MergeSortedArray {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
